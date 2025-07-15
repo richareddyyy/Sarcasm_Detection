@@ -1,4 +1,4 @@
-## Sarcasm Detection in Hindi-English Code-Mixed Twitter Data**
+## Sarcasm Detection in Hindi-English Code-Mixed Twitter Data
 
 ## Overview :
 
